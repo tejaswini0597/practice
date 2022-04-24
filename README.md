@@ -9,5 +9,5 @@ languages:
 products:
 - aws
 - ec2
-- git
+- git bash
 ---
